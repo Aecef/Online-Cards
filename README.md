@@ -1,6 +1,6 @@
 # README
 # Online-Cards
-The Ruby On Rails project for Introduction to Software Design.  This was completed in December 2020 with a team of 5 and utilizing Agile software development.
+The Ruby On Rails project for Programming Languages and Tools.  This was completed in December 2020 with a team of 5 and utilizing Agile software development.
 ### Iterations:
 * https://selt2020-sprint1.herokuapp.com/ 
 * https://selt2020-sprint2.herokuapp.com/ 
